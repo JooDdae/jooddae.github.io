@@ -22,11 +22,11 @@
   * `_data`, `_includes`, `_layouts`, `_posts`, `_posts`, `_sass`
   * `about`, `archives`, `assets`, `categories`, `category`, `navigator`, `tag`, `tags`
 2. 이 내용들을 **수정해야 합니다**.
-  * `_includes/judge_profile.html` 10번째 줄
+  * `_includes/judge_profile.html` 10번째 줄 (Done)
   * `_includes/_layout.html`의 google analytics 관련 부분
   * `_includes/index.html`의 github chart 관련 부분
-  * `about/index.md`, `navigator/index.html` 전체
-  * `_config.yml`의 Disqus 관련 부분
-  * `_includes/advertise.html` 전체
-  * (사이드바에 광고를 넣지 않는다면) `_includes/_macro/sidebar.html` 하단 `{% include advertise.html %}` 부분 삭제
+  * `about/index.md`, `navigator/index.html` 전체 (Done)
+  * `_config.yml`의 Disqus 관련 부분 (Done)
+  * `_includes/advertise.html` 전체 (Done)
+  * (사이드바에 광고를 넣지 않는다면) `_includes/_macro/sidebar.html` 하단 `{% include advertise.html %}` 부분 삭제 (Done)
 3.  포스팅 작성 방법은 [여기](https://github.com/justiceHui/justiceHui.github.io/blob/master/posting.md)를 참고해주세요.
