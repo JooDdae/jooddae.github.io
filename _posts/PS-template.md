@@ -14,8 +14,7 @@ tags:
 [2020 ICPC Sinchon Summer Algorithm Camp Contest - 중급](https://www.acmicpc.net/category/detail/2290)
 
 ## 사용 알고리즘
-
-
+ - DFS
 
 ## 시간복잡도
 $O()$
