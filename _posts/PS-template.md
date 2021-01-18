@@ -14,7 +14,6 @@ tags:
 a
 
 ## 전체 코드
-```cpp{% raw %}
+```cpp
 
-{% endraw %}```
 ```
