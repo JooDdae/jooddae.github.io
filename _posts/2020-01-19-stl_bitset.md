@@ -8,7 +8,7 @@ tags:
 
 
 
-[https://www.cplusplus.com/reference/](https://www.cplusplus.com/reference/) 를 참고했습니다.
+[https://en.cppreference.com/w/](https://en.cppreference.com/w/) 를 참고했습니다.
 
 
 
@@ -16,9 +16,9 @@ tags:
 
 ```c++
 #include <bitset> 
-std::bitset<16> foo;
-std::bitset<16> bar (0xfa2);
-std::bitset<16> baz (std::string("0101111001"));
+std::bitset<8> b1;
+std::bitset<8> b2(42);
+std::bitset<8> b3 (std::string("110010"));
 ```
 
 **bitset<크기> 변수명 (정수 or string)**
