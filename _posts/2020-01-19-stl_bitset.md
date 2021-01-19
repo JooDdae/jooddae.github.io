@@ -29,15 +29,15 @@ std::bitset<8> b3(std::string("110010"));
 
 **~** : Bitwise NOT 연산
 
-**&** / **&=** : Bitwise AND 연산
+**&** / **&=** : Bitwise AND
 
-**\|** / **\|=** : Bitwise OR 연산
+**\|** / **\|=** : Bitwise OR
 
-**^** / **^=** : Bitwise XOR 연산
+**^** / **^=** : Bitwise XOR
 
-**\<<** / **\<<=** / **\>>** / **\>>=** : Bitwise shift 연산
+**\<<** / **\<<=** / **\>>** / **\>>=** : Bitwise shift
 
-**==** / **!=** : Equal to / Not equal to 연산
+**==** / **!=** : Equal to / Not equal to
 
 
 
