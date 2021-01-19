@@ -18,7 +18,7 @@ tags:
 #include <bitset> 
 std::bitset<8> b1;
 std::bitset<8> b2(42);
-std::bitset<8> b3 (std::string("110010"));
+std::bitset<8> b3(std::string("110010"));
 ```
 
 **bitset\<크기\> 변수명 (정수 or string)**
