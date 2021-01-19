@@ -27,7 +27,7 @@ std::bitset<8> b3(std::string("110010"));
 
 ## 지원 연산
 
-**~** : Bitwise NOT 연산
+**~** : Bitwise NOT
 
 **&** / **&=** : Bitwise AND
 
@@ -38,6 +38,8 @@ std::bitset<8> b3(std::string("110010"));
 **\<<** / **\<<=** / **\>>** / **\>>=** : Bitwise shift
 
 **==** / **!=** : Equal to / Not equal to
+
+**b[]** 로 접근이 가능하다
 
 
 
