@@ -1,5 +1,5 @@
 ---
-title:  "비트셋(bitset) stl"
+title:  "C++ stl 비트셋(bitset)"
 date: 2021-01-19 21:00:00
 categories: 
 - STL
