@@ -24,5 +24,3 @@ type: about
 * (19.12) INU 송년 코드페스티벌 2019 검수 ([BOJ](https://www.acmicpc.net/contest/view/496))
 * (19.07) 수원정보과학고등학교 알고리즘 경진대회 운영/출제 ([Github](https://github.com/JooDdae/SWJB-CPC))
 * (19.05) 2019 아주대학교 프로그래밍 경시대회 APC 검수 ([BOJ](https://www.acmicpc.net/contest/view/411))
-
-### 교육 활동
