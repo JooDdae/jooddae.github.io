@@ -4,7 +4,7 @@ layout: page
 
 ### 대회 참가/수상
 * 2021
-  * UCPC 2021 8위
+  * UCPC 2021 5등상<sup>8th</sup>
 
 * 2020
   * ICPC 2020 Asia-Seoul Regional Contest 동상<sup>8th</sup>
