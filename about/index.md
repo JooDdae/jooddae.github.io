@@ -17,6 +17,8 @@ type: about
 [링크](/about/award/)
 
 ### 대회 운영
+* (21.08) 2021 ICPC Sinchon Summer Algorithm Camp Contest 검수 ([BOJ](https://www.acmicpc.net/contest/view/681))
+* (21.08) 제5회 천하제일 코딩대회 검수 ([BOJ](https://www.acmicpc.net/contest/view/663))
 * (21.02) 제1회 강원대학교 프로그래밍 경진대회 검수 ([BOJ](https://www.acmicpc.net/category/518))
 * (20.12) 제4회 천하제일 코딩대회 검수 ([BOJ](https://www.acmicpc.net/contest/view/581))
 * (20.12) 2020 아주대학교 프로그래밍 대회 APC 검수 ([BOJ](https://www.acmicpc.net/contest/view/569))
