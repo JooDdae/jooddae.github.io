@@ -3,6 +3,9 @@ layout: page
 ---
 
 ### 대회 참가/수상
+* 2021
+  * UCPC 2021 8위
+
 * 2020
   * ICPC 2020 Asia-Seoul Regional Contest 동상<sup>8th</sup>
   * 삼성전자 대학생 프로그래밍 경진대회 5등상<sup>35th</sup>
