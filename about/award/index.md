@@ -4,7 +4,9 @@ layout: page
 
 ### 대회 참가/수상
 * 2021
+  * Facebook Hacker Cup Round 3 
   * 삼성전자 대학생 프로그래밍 경진대회 2021 2등상<sup>2nd</sup>
+  * 21 MOBIS 알고리즘 경진대회 5등상
   * UCPC 2021 4등상<sup>8th</sup>
 
 * 2020
