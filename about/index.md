@@ -17,6 +17,8 @@ type: about
 [링크](/about/award/)
 
 ### 대회 운영
+
+* (21.10) 2021 홍익대학교 프로그래밍 경진대회 검수 ([BOJ](https://www.acmicpc.net/contest/view/686))
 * (21.09) 제5회 생각하는 프로그래밍 대회 검수 ([BOJ](https://www.acmicpc.net/contest/view/697))
 * (21.08) 제3회 소프트콘 검수 ([BOJ](https://www.acmicpc.net/contest/view/682))
 * (21.08) 2021 선린 정보 알고리즘 경시대회 검수 ([BOJ](https://www.acmicpc.net/contest/view/688))
