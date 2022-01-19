@@ -17,6 +17,9 @@ type: about
 [링크](/about/award/)
 
 ### 대회 운영
+* (22.01) Hello, BOJ 2022! 검수 ([BOJ](https://www.acmicpc.net/contest/view/753))
+* (21.12) Good Bye, BOJ 2021! 출제 ([BOJ](https://www.acmicpc.net/problem/24044))
+* (21.12) GBS Coding Contest 2021 검수 ([BOJ](https://www.acmicpc.net/contest/view/738))
 * (21.11) 2021 고려대학교 프로그래밍 경시대회 검수 ([BOJ](https://www.acmicpc.net/contest/view/740))
 * (21.10) 2021 홍익대학교 프로그래밍 경진대회 검수 ([BOJ](https://www.acmicpc.net/contest/view/686))
 * (21.09) 제5회 생각하는 프로그래밍 대회 검수 ([BOJ](https://www.acmicpc.net/contest/view/697))
