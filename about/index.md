@@ -11,7 +11,7 @@ type: about
   * (17.03-20.02) 수원정보과학고등학교 디지털네트워크과
 
 ### 온라인 저지 프로필
-{% include judge_profile.html %}
+{% include judge_profile.html boj_id="kyo20111" boj_bias="11" codeforces_id="kyo20111" atcoder_id="JooDdae"%}
 
 ### 대회 참가/수상
 [링크](/about/award/)
