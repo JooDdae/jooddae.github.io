@@ -70,7 +70,6 @@
     else if(service === 'mx_codeforces') cf.innerHTML = `Max. ${ratings[service]}`;
     else cf.innerHTML = `${handles[service]} (${ratings[service].toString()})`;
 
-    setRainbow('BOJ');
   }
 
   function setRainbow(service) {
@@ -185,4 +184,5 @@
   }
 
   makeProfileList();
+  setRainbow('BOJ');
 </script>
