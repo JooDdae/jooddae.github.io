@@ -3,7 +3,8 @@
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 <script type="text/javascript">
-  let ratings = { 'codeforces':0, 'BOJ':0, "solved":0 };
+  const boj_bias = {{ include.boj_bias | default: 0 }}; // Difference between BOJ and solved.ac
+  let ratings = { 'codeforces':0, 'BOJ':0, "solved":0, 'atcoder':0 };
   let handles = { 'codeforces':'{{ include.codeforces_id | default: "None" }}', 'BOJ':'{{ include.boj_id | default: "None" }}', 'atcoder':'{{ include.atcoder_id | default: "None" }}' };
   let url = { 'codeforces':'https://codeforces.com/profile/', 'BOJ':'http://icpc.me/', 'solved':'https://solved.ac/profile/', 'atcoder':'https://atcoder.jp/users/' };
   let colors = {
@@ -70,6 +71,7 @@
     else if(service === 'mx_codeforces') cf.innerHTML = `Max. ${ratings[service]}`;
     else cf.innerHTML = `${handles[service]} (${ratings[service].toString()})`;
 
+    setRainbow('BOJ');
   }
 
   function setRainbow(service) {
@@ -184,5 +186,4 @@
   }
 
   makeProfileList();
-  setRainbow('BOJ');
 </script>
