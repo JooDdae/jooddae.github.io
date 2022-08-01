@@ -17,6 +17,7 @@ type: about
 [링크](/about/award/)
 
 ### 대회 운영
+* (22.07) 제6회 천하제일 코딩대회 출제 ([BOJ](https://www.acmicpc.net/contest/view/834))
 * (22.03) 2022 숭고한 연합 알고리즘 콘테스트 출제 ([BOJ](https://www.acmicpc.net/problem/24890))
 * (22.02) 2022 ICPC Sinchon Winter Algorithm Camp Contest 검수 ([BOJ](https://www.acmicpc.net/contest/view/760))
 * (22.01) Hello, BOJ 2022! 검수 ([BOJ](https://www.acmicpc.net/contest/view/753))
