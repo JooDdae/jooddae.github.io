@@ -3,6 +3,9 @@ layout: page
 ---
 
 ### 대회 참가/수상
+* 2022
+  * UCPC 2022 5등상<sup>12th</sup>
+
 * 2021
   * ICPC 2021 Asia-Seoul Regional Contest 동상<sup>8th</sup>
   * Facebook Hacker Cup Round 3 진출
