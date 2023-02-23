@@ -17,6 +17,10 @@ type: about
 [링크](/about/award/)
 
 ### 대회 운영
+* (23.02) 2022 고려대학교 프로그래밍 경시대회 (KCPC mini) 출제 ([BOJ](https://www.acmicpc.net/category/777))
+* (23.01) Hello, BOJ 2023! 출제 ([BOJ](https://www.acmicpc.net/category/detail/3456))
+* (22.12) Good Bye, BOJ 2022! 출제 ([BOJ](https://www.acmicpc.net/category/detail/3426))
+* (22.08) 2022 선린 정보 알고리즘경시대회 출제 ([BOJ](https://www.acmicpc.net/category/detail/3176))
 * (22.07) 제6회 천하제일 코딩대회 출제 ([BOJ](https://www.acmicpc.net/contest/view/834))
 * (22.03) 2022 숭고한 연합 알고리즘 콘테스트 출제 ([BOJ](https://www.acmicpc.net/problem/24890))
 * (22.02) 2022 ICPC Sinchon Winter Algorithm Camp Contest 검수 ([BOJ](https://www.acmicpc.net/contest/view/760))
